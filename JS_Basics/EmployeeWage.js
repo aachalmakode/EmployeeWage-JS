@@ -1,3 +1,4 @@
+
 console.log("Program For Employee Wage Problem");
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
